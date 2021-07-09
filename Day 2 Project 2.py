@@ -16,3 +16,10 @@ final_amount = round(bill_per_person, 2)
 #https://www.udemy.com/course/100-days-of-code/learn/lecture/17965132#questions/13315048
 
 print(f"Each person should pay: Rs.{final_amount}")
+
+#Output:
+Welcome to the tip calculator!
+What was the total bill? Rs.150
+How much tip would you like to give? 10, 12, or 15? 0
+How many people to split the bill?5
+Each person should pay: Rs.30.0
